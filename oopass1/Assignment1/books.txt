@@ -1,0 +1,13 @@
+1,The Da Vinci Code,Dan Brown,Mystery,false
+2,The Alchemist,Paulo Coelho,Fiction,false
+3,The Catcher in the Rye,J.D. Salinger,Fiction,false
+4,The Great Gatsby,F. Scott Fitzgerald,Fiction,true
+5,To Kill a Mockingbird,Harper Lee,Fiction,true
+6,1984,George Orwell,Dystopian Fiction,false
+7,The Catcher in the Rye,J.D. Salinger,Fiction,true
+8,The Great Gatsby,F. Scott Fitzgerald,Fiction,true
+9,null,null,null,true
+10,null,null,null,true
+11,null,null,null,true
+12,null,null,null,true
+13,null,null,null,true
