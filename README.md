@@ -24,6 +24,5 @@ Usage
 Contributors
 
       Abdullah Aleem 367414
-      Azaan Siddique 371850
 
 Contributions to this project are greatly appreciated! Please feel free to submit bug reports, feature requests, or pull requests to enhance the functionality of the system.
